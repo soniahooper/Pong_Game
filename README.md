@@ -14,5 +14,5 @@ Pong game created in Python3 using using Turtle module
 
 -Run the My_Pong_Game.py file with the following packages installed:
 
-  turtle
-  os
+  - turtle
+  - os
