@@ -1,6 +1,6 @@
 # Pong_Game
 
-Simple Pong game for two players created in Python3 using using Turtle module. 
+Simple Pong game for two players created in Python3 using using Turtle library. 
 
 
 # GUI Screenshot:
